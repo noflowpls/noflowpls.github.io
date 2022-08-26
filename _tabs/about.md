@@ -5,25 +5,25 @@ order: 4
 ---
 
 ## About this blog
-> - This blog was created with a view to reviewing and sharing my knowledge about security via CTF, ...
+> - This blog was created to share my knowledge about security via CTF,WebSec, ...
 
 ______________
 
 
 
 ## About me
-> - Student at University of Information and Technology (VNU-HCM)
-> - My majors is Information Security
-> - I enjoy spending my free time on learning about security
+> - High Student at Shitty school, 16 years old
+> - Love to stay lonely
+> - I enjoy spending my free time on learning about security Via Websec,..
 
 ______________
 
 
 
 ## Contact me via
-> - **Facebook**: **<https://www.facebook.com/tdn1610>**
-> - **Discord**: **<https://discordapp.com/users/772510786244575262>**
-> - **Email**: **<todinhnguyen1610@gmail.com>**
+> - **Discord**: **<https://discordapp.com/users/847822905126944778>**
+> - **Twitter**: **<https://twitter.com/cmoverflow>**
+> - **Email**: **<comdeyoverflow10@gmail.com>**
 
 ______________
 
