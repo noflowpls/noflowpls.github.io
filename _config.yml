@@ -16,17 +16,17 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Ho_Chi_Minh
+timezone: Asia/Tokyo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: to^                        # the main title
+title: ComdeyOverflow                        # the main title
 
-tagline: Student, CTFer, web warrior   # it will display as the sub-title
+tagline: High-School Student, CTFer, Lonely   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  to^ blog, student at university of infomation and technology, VNU-HCM
+  ComdeyOverflow blog, High student
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://comdeyoverflow.github.io/'
@@ -35,17 +35,17 @@ github:
   username: comdeyoverflow            # change to your github username
 
 twitter:
-  username: nguyendt0            # change to your twitter username
+  username: cmoverflow            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Tô Đỉnh Nguyên
-  email: todinhnguyen1610@gmail.com             # change to your email address
+  name: Comdey Over Flow
+  email: comdeyoverflow10@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/nguyendt0      # change to your twitter homepage
-    - https://github.com/to016     # change to your github homepage
+    - https://twitter.com/cmoverflow      # change to your twitter homepage
+    - https://github.com/comdeyoverflow     # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/tdn1610
     # - https://www.linkedin.com/in/username
