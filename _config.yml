@@ -26,7 +26,7 @@ title: ComdeyOverflow                        # the main title
 tagline: High-School Student, CTFer, Lonely   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  ComdeyOverflow blog, High student
+  ComdeyOverflow blog, High-School student
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://comdeyoverflow.github.io/'
@@ -47,7 +47,7 @@ social:
     - https://twitter.com/cmoverflow      # change to your twitter homepage
     - https://github.com/comdeyoverflow     # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/tdn1610
+    # -
     # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
