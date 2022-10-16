@@ -21,8 +21,8 @@ ______________
 
 
 ## Contact me via
-> - **Discord**: **<https://discordapp.com/users/847822905126944778>**
-> - **Twitter**: **<https://twitter.com/cmoverflow>**
+> - **Discord**: **<>**
+> - **Twitter**: **<>**
 > - **Email**: **<comdeyoverflow10@gmail.com>**
 
 ______________
