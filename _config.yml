@@ -21,31 +21,31 @@ timezone: Asia/Tokyo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ComdeyOverflow                        # the main title
+title: noflowpls                        # the main title
 
 tagline: High-School Student, CTFer, Lonely   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  ComdeyOverflow blog, High-School student
+  noflowpls blog, High-School student
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://comdeyoverflow.github.io/'
+url: 'https://noflowpls.github.io/'
 
 github:
-  username: comdeyoverflow            # change to your github username
+  username: noflowpls            # change to your github username
 
 twitter:
-  username: cmoverflow            # change to your twitter username
+  #username:             # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Comdey Over Flow
+  name: noflowpls
   email: comdeyoverflow10@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/cmoverflow      # change to your twitter homepage
-    - https://github.com/comdeyoverflow     # change to your github homepage
+    #- https://twitter.com/cmoverflow      # change to your twitter homepage
+    - https://github.com/noflowpls     # change to your github homepage
     # Uncomment below to add more social links
     # -
     # - https://www.linkedin.com/in/username
