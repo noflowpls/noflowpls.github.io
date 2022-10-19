@@ -22,8 +22,8 @@ ______________
 
 ## Contact me via
 > - **Discord**: **<>**
-> - **Twitter**: **<>**
-> - **Email**: **<comdeyoverflow10@gmail.com>**
+> - **Twitter**: **<https://twitter.com/noflowpls>**
+> - **Email**: **<noflowpls@protonmail.com>**
 
 ______________
 
