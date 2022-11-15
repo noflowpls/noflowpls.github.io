@@ -7,7 +7,7 @@ categories: [Intro, Introduction]
 tags: [whoami, intro]     # TAG names should always be lowercase
 img_path: /assets/img/
 image:
- src: noflowpls/noflowpls.png
+ src: noflowpls/noflow.png
  alt: noflowpls
  width: 1000
  height: 400
